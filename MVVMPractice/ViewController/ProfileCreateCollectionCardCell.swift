@@ -119,6 +119,9 @@ class ProfileCreateCollectionCardCell: UITableViewCell,UITextViewDelegate,UIScro
       
     }
     
+//    TEST vs code git control
+//    HI
+    
     func configurePageControl(){
 
         pageControl.numberOfPages = images.count

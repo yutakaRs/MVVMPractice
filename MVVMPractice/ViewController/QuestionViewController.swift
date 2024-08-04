@@ -14,6 +14,8 @@ class QuestionViewController: UIViewController {
     var viewModel = QuestionViewModel()
     var questionModel: DataModel?
     
+    var test = [1,2,3,4,5]
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         
